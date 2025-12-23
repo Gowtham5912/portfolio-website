@@ -1,0 +1,26 @@
+<svg width="230" height="80" viewBox="0 0 230 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- GowT Text (Extra Big) -->
+  <text
+    x="0"
+    y="60"
+    fill="white"
+    font-size="56"
+    font-weight="700"
+    font-family="Poppins, Montserrat, Arial, sans-serif"
+    letter-spacing="0.5">
+    GowT
+  </text>
+
+  <!-- Gradient Accent Shape (Aligned to Bigger Text) -->
+  <path d="M138 60.39C138 59.3438 138.9096 58.53 139.9493 58.6459L171.251 62.136C175.227 62.5794 178.591 59.226 178.161 55.2483C177.713 51.1161 173.434 48.5622 169.584 50.1306L140.417 62.0151C139.263 62.4854 138 61.6363 138 60.39Z" fill="url(#paint0_linear)"/>
+
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="260" y1="58" x2="225" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DF8908"/>
+      <stop offset="1" stop-color="#B415FF"/>
+    </linearGradient>
+  </defs>
+
+</svg>
